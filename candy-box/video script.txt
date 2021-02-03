@@ -1,0 +1,24 @@
+Do you ever get a late night craving...
+and see your kid's candy and think, "They won't miss one or two!"
+
+but what if, your kid was a builder!?!? and locked you out of their candy supply!?!?
+
+I teamed up with my two boys to build a candy safe
+to protect their most delicious posssesions
+... and keep me out
+
+we have a self-contained box, LCD display, arduino, and servo, with an infrared receiver paired with a remote,
+that will only grant access to those with a secret code.
+
+In the end, I was able to convince my boys to give me a whole 2 seoncds to access the candy, 
+which is better than nothing!
+
+I want to thank Mark Rober for putting so much time and effort into this course, making this the best quarantine ever!
+
+I also want to thank my awesome peer group. I learned so much from you all and was totally blown away by your creativity and engenuity
+
+I also want to thank my amazing wife and boys for joining me in this amazing experience.
+
+thank you all. 
+
+
